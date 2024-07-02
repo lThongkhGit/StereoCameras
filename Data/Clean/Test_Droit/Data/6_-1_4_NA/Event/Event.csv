@@ -1,0 +1,5 @@
+ID;Time;Event;Pannel;Left Button;Right Button;Target Sensor;Sensor_0_0;Sensor_0_1;Sensor_0_2;Sensor_0_3;Sensor_0_4;Sensor_0_5;Sensor_1_0;Sensor_1_1;Sensor_1_2;Sensor_1_3;Sensor_1_4;Sensor_1_5;Sensor_2_0;Sensor_2_1;Sensor_2_2;Sensor_2_3;Sensor_2_4;Sensor_2_5
+0;17:22:48:273;button_right_off;off;off;off;off;off;off;off;on;off;off;off;off;off;off;off;off;off;off;off;off;off;off
+1;17:22:56:305;force_sensor_0_3_off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off
+2;17:22:57:123;target_sensor_0_on;off;off;off;on;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off;off
+

@@ -1,0 +1,138 @@
+[
+  {
+    "Index": 1,
+    "State": "Valid",
+    "CurrentID": "Participant_1",
+    "Records": [
+      {
+        "DateTime": "2021-06-15T18:45:22.1678139+02:00",
+        "ID": "Participant_1",
+        "Operation": "Create"
+      }
+    ]
+  },
+  {
+    "Index": 2,
+    "State": "Valid",
+    "CurrentID": "Participant_2",
+    "Records": [
+      {
+        "DateTime": "2021-06-15T18:45:24.0666367+02:00",
+        "ID": "Participant_2",
+        "Operation": "Create"
+      }
+    ]
+  },
+  {
+    "Index": 3,
+    "State": "Invalid",
+    "CurrentID": "",
+    "Records": [
+      {
+        "DateTime": "2021-06-15T18:45:27.4988048+02:00",
+        "ID": "Participant_3",
+        "Operation": "Create"
+      },
+      {
+        "DateTime": "2021-06-15T18:45:32.2017386+02:00",
+        "ID": "p3",
+        "Operation": "Rename"
+      },
+      {
+        "DateTime": "2021-09-21T16:30:49.6177619+02:00",
+        "ID": "",
+        "Operation": "Delete"
+      }
+    ]
+  },
+  {
+    "Index": 4,
+    "State": "Invalid",
+    "CurrentID": "",
+    "Records": [
+      {
+        "DateTime": "2021-06-17T19:22:39.5486861+02:00",
+        "ID": "Participant_4",
+        "Operation": "Create"
+      },
+      {
+        "DateTime": "2021-08-02T11:39:47.2838175+02:00",
+        "ID": "",
+        "Operation": "Delete"
+      }
+    ]
+  },
+  {
+    "Index": 5,
+    "State": "Invalid",
+    "CurrentID": "",
+    "Records": [
+      {
+        "DateTime": "2021-06-22T16:28:12.9213709+02:00",
+        "ID": "Participant_5",
+        "Operation": "Create"
+      },
+      {
+        "DateTime": "2021-08-02T11:39:27.4233408+02:00",
+        "ID": "",
+        "Operation": "Delete"
+      }
+    ]
+  },
+  {
+    "Index": 6,
+    "State": "Invalid",
+    "CurrentID": "",
+    "Records": [
+      {
+        "DateTime": "2021-08-02T11:39:31.8296361+02:00",
+        "ID": "Participant_6",
+        "Operation": "Create"
+      },
+      {
+        "DateTime": "2021-09-21T16:30:50.1493652+02:00",
+        "ID": "",
+        "Operation": "Delete"
+      }
+    ]
+  },
+  {
+    "Index": 7,
+    "State": "Invalid",
+    "CurrentID": "",
+    "Records": [
+      {
+        "DateTime": "2021-08-02T11:39:33.3494501+02:00",
+        "ID": "Participant_7",
+        "Operation": "Create"
+      },
+      {
+        "DateTime": "2021-08-02T11:39:39.2804774+02:00",
+        "ID": "7",
+        "Operation": "Rename"
+      },
+      {
+        "DateTime": "2021-09-21T16:30:50.6277999+02:00",
+        "ID": "",
+        "Operation": "Delete"
+      }
+    ]
+  },
+  {
+    "Index": 8,
+    "State": "Valid",
+    "CurrentID": "Participant_3",
+    "Records": [
+      {
+        "DateTime": "2021-10-01T14:18:32.9599046+02:00",
+        "ID": "Participant_8",
+        "Operation": "Create"
+      },
+      {
+        "DateTime": "2021-10-01T14:18:37.4901012+02:00",
+        "ID": "Participant_3",
+        "Operation": "Rename"
+      }
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+Mono path[0] = 'D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Managed'
+Mono config path = 'D:/UnityProjects/EDOF/Builds/manip_saisie/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   
+    VRAM:     12010 MB
+    Driver:   31.0.15.3640
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.046 seconds
+OnLevelWasLoaded was found on Reporter
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Dropdown - SelectWindow') is missing!
+The referenced script on this Behaviour (Game Object 'OptionalWindow - Third Person View') is missing!
+The referenced script on this Behaviour (Game Object 'Dropdown - SelectWindow') is missing!
+The referenced script on this Behaviour (Game Object 'Dropdown - SelectWindow') is missing!
+The referenced script on this Behaviour (Game Object 'Dropdown - SelectWindow') is missing!
+The referenced script on this Behaviour (Game Object 'Dropdown - SelectAngle') is missing!
+The referenced script on this Behaviour (Game Object 'MainView') is missing!
+The referenced script on this Behaviour (Game Object 'StaticLightingSky') is missing!
+UnloadTime: 70.013600 ms
+Session existed found
+Session already exists : Load session state file from the Save folder
+Initialize Locomotion Test
+Save Session State
+Load trial: 8_-1_4_NA
+COM1 : timeout
+chosen :COM3
+COM1 : timeout
+chosen :COM4
+0send : 0(digital) is True
+Board 0 send : 5(analog) is True
+Board 0 send : 11(analog) is True
+0send : 1(digital) is True
+1send : 0(digital) is True
+1send : 6(digital) is True
+Right button switch: True
+1send : 7(digital) is True
+Mask switch: True
+Board 1 send : 9(analog) is True
+1send : 1(digital) is True
+requestedWidth before opening cam 1920
+requestedHeight before opening cam 1080
+1send : 6(digital) is False
+Right button switch: False
+Board 1 send : 9(analog) is False
+1send : 6(digital) is True
+Right button switch: True
+1send : 6(digital) is False
+Right button switch: False
+Load trial: 7_-1_6_NA
+Board 1 send : 7(analog) is True
+1send : 7(digital) is False
+Mask switch: False
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+1send : 7(digital) is True
+Mask switch: True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+frameWidth 1920frameHeight 1080
+propFOURCC None
+frameWidth 1920frameHeight 1080
+propFOURCC None
+Board 1 send : 12(analog) is True
+Board 0 send : 11(analog) is False
+Board 1 send : 14(analog) is True
+Board 1 send : 11(analog) is True
+Board 1 send : 12(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 11(analog) is False
+Board 1 send : 12(analog) is False
+Board 1 send : 14(analog) is False
+Board 1 send : 11(analog) is True
+Board 1 send : 11(analog) is False
+Board 1 send : 14(analog) is True
+Board 1 send : 11(analog) is True
+Board 1 send : 11(analog) is False
+Board 1 send : 11(analog) is True
+Board 1 send : 14(analog) is False
+Board 1 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 0 send : 11(analog) is True
+Board 0 send : 11(analog) is False
+Board 1 send : 14(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 12(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 14(analog) is False
+Board 1 send : 14(analog) is True
+Board 1 send : 13(analog) is True
+Board 1 send : 14(analog) is False
+Board 1 send : 13(analog) is False
+Board 1 send : 14(analog) is True
+Board 1 send : 12(analog) is False
+Board 1 send : 13(analog) is True
+Board 1 send : 13(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 12(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 12(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 14(analog) is False
+Board 1 send : 12(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 12(analog) is False
+Board 1 send : 14(analog) is True
+Board 1 send : 12(analog) is True
+Board 1 send : 14(analog) is False
+Board 1 send : 12(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 12(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 14(analog) is True
+Board 1 send : 12(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 1 send : 14(analog) is False
+Board 0 send : 5(analog) is True
+Board 1 send : 14(analog) is True
+Board 0 send : 5(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 12(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 0 send : 5(analog) is True
+Board 0 send : 5(analog) is False
+Board 1 send : 12(analog) is True
+Board 1 send : 12(analog) is False
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libc
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libc.dll
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libc
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libc
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libc.dll
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libc
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11.dll
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11.dll
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11.dll
+Fallback handler could not load library D:/UnityProjects/EDOF/Builds/manip_saisie/EDOF_Data/Mono/libX11
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 2604 -> priority: 1 
+  Thread -> id: 4828 -> priority: 1 
+  Thread -> id: 2740 -> priority: 1 
+  Thread -> id: 4668 -> priority: 1 
+  Thread -> id: 57f0 -> priority: 1 
+  Thread -> id: 591c -> priority: 1 
+  Thread -> id: 51a0 -> priority: 1 
+  Thread -> id: 3e10 -> priority: 1 
+  Thread -> id: 218c -> priority: 1 
+  Thread -> id: 534c -> priority: 1 

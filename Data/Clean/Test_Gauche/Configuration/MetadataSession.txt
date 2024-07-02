@@ -1,0 +1,21 @@
+{
+  "Participant ID": "Participant_3",
+  "ABILHAND Score": "12",
+  "Main Hand": "Left",
+  "Date Time Computer": "2024-06-25T17:25:37",
+  "Date Time User Input": "2024-06-25T17:25:00",
+  "Application Name": "EDOF",
+  "Application Version": "0.1",
+  "Unity Version": "2020.3.33f1",
+  "System Version": "Windows 11  (10.0.22631) 64bit",
+  "System Language": "French",
+  "Graphics Device Name": "NVIDIA GeForce RTX 4070 Ti",
+  "Graphics Device Type": "Direct3D11",
+  "Graphics Device Vendor": "NVIDIA",
+  "Graphics Device Vendor ID": "4318",
+  "Graphics Device Version": "Direct3D 11.0 [level 11.1]",
+  "Graphics Memory Size": "12010",
+  "Graphics Device Driver Version": "456.71",
+  "SteamVR Version": "1.17.16",
+  "Eye Calibration Result": "Not Performed"
+}
